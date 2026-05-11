@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
 <h3 align="center">IT specialist from Russia</h3>
 
-- 📫 How to reach me **vasilieve87@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">This project is written in C# + ASP.NET CORE. The application is a hardware store.</h3>
 <p align="left">
 </p>
